@@ -135,7 +135,7 @@ sgtitle('Single Hidden Layer Neural Network Approximation of sin(2πx)');
 
 #### ReLU 函数
 
-![image](https://github.com/user-attachments/assets/f516abb6-1b5c-485f-9e83-6d17b37648c4)
+![image](https://github.com/user-attachments/assets/09f9a94f-5368-4607-b920-db4b7fb8fd61)
 
 ### 结果分析
 
